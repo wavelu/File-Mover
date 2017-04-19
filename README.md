@@ -1,3 +1,5 @@
+Organize the movie files.
+
 Feel free to reuse the script for something else. After all its purpose is to use regexp-rules to move files.
 
 I use an external hard drive for these files. 
